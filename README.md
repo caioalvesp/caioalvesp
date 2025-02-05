@@ -1,4 +1,21 @@
-## Hi there 👋
+# Olá, me chamo Caio! 
+## Bem vindo ao meu perfil GitHub 👋
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+
+          
+
+          
+
+          
+          
+          
 
 <!--
 **caioalvesp/caioalvesp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
